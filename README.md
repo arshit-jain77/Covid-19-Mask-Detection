@@ -1,2 +1,3 @@
 # Covid-19-Mask-Detection
-Mask Detector CNN model which detects whether the person in the image is wearing mask or not.
+Two implementations of detector model using Neural Network and CNN.
+Neural Network notebook also has the real time predictions using Computer Vision
